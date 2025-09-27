@@ -55,5 +55,5 @@ Une interface intuitive où l’utilisateur saisit un montant, sélectionne une 
 5. Les devises favorites doivent apparaître en haut de la liste déroulante.
    
 ![Convertisseur de devises](https://github.com/user-attachments/assets/42982dd8-5498-4ddb-b85a-76feadd6615c)
-
+ 
 
